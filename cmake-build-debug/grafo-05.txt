@@ -1,0 +1,517 @@
+TAM6275 Goiania 01:59 Dubai 02:26 03:04 Motevideo 03:31
+DELTA2573 Goiania 14:21 Florenca 15:46
+AFRANCE6402 Goiania 10:24 Toquio 16:20
+FLYASIA9100 Goiania 04:38 BuenosAires 07:31 07:50 Bruxelas 08:12
+AFRANCE5927 SaoPaulo 01:10 Hamburg 03:56
+ASKY3808 SaoPaulo 09:14 Lisboa 14:40
+AIRBUS9612 SaoPaulo 11:13 Bruxelas 11:14
+VARIG1695 SaoPaulo 04:22 Goiania 07:22 07:25 Curitiba 07:26
+FLYASIA6135 SaoPaulo 08:55 Viena 09:42 10:09 Bruxelas 10:36
+TAM7759 SaoPaulo 00:15 Goiania 03:08 04:39 Madrid 05:24
+KLM8546 SaoPaulo 14:31 Casablanca 21:23
+VARIG3219 SaoPaulo 13:19 Johannesburgo 16:55
+AFRANCE6633 SaoPaulo 11:52 Xangai 15:03
+AFRANCE9110 SaoPaulo 08:23 Seul 10:34
+TAM9810 SaoPaulo 04:12 RioDeJaneiro 09:21
+VARIG2275 SaoPaulo 10:06 Goiania 19:04
+AZUL2291 SaoPaulo 01:11 Curitiba 02:27 03:01 Goiania 04:25
+TAM9161 SaoPaulo 14:44 Florida 21:43
+KLM4533 SaoPaulo 17:14 Atenas 21:07
+VARIG7083 SaoPaulo 06:06 Johannesburgo 14:58
+TAM1507 SaoPaulo 01:53 Florida 07:09
+ASKY3720 RioDeJaneiro 16:19 Xangai 20:55
+KLM8929 RioDeJaneiro 02:19 Roma 05:01
+VARIG6083 RioDeJaneiro 09:28 Praga 18:35
+VARIG3208 RioDeJaneiro 19:13 Madrid 22:48
+TAM5210 RioDeJaneiro 03:10 Londres 05:18
+TAM4727 RioDeJaneiro 12:39 Budapeste 18:41
+VARIG3224 RioDeJaneiro 08:11 Madrid 18:53
+AIRBUS5727 RioDeJaneiro 09:23 NovaYork 18:07
+AIRBUS7247 Curitiba 13:08 Paris 18:54
+DELTA3966 Curitiba 06:23 Madrid 09:25 10:15 Florenca 11:22
+VARIG5743 Curitiba 09:10 Madrid 10:09 11:41 Paris 12:08
+AFRANCE3244 Curitiba 12:01 Budapeste 19:58
+KLM3205 Curitiba 05:52 Seul 06:19 06:46 BuenosAires 07:13
+FLYASIA6345 Curitiba 03:48 Florida 06:32
+TAM8678 Curitiba 17:37 Barcelona 22:06
+KLM2070 Curitiba 02:28 Motevideo 21:16
+AZUL6243 Curitiba 16:45 BuenosAires 22:21
+AFRANCE6257 Curitiba 10:24 Johannesburgo 14:16
+FLYASIA3098 Curitiba 09:15 Lima 10:40
+DELTA1861 Curitiba 13:11 Hamburg 20:33
+DELTA2114 Curitiba 11:15 Casablanca 12:46
+ASKY3893 Curitiba 00:13 Londres 13:18
+AFRANCE9734 Florida 12:02 Veneza 13:53
+KLM9518 Florida 20:16 BuenosAires 22:21
+TAM1696 Florida 21:44 Paris 22:11
+VARIG8267 Florida 04:07 Paris 17:14
+AFRANCE4990 Florida 03:54 Xangai 05:37
+DELTA8206 Florida 20:21 RioDeJaneiro 20:52
+AZUL2389 Florida 15:53 Dubai 20:34
+DELTA3526 Florida 07:33 Amsterdam 09:39 10:11 RioDeJaneiro 11:41
+FLYASIA4879 Florida 02:09 Amsterdam 08:27
+FLYASIA3008 Florida 04:50 Londres 05:04
+ASKY1467 Florida 00:42 NovaYork 12:13
+VARIG4842 Florida 03:54 Amsterdam 04:29 05:37 Toquio 06:13
+KLM2596 Florida 18:09 Berlim 18:29
+FLYASIA7265 Florida 06:51 Amsterdam 19:23
+KLM4689 Orlando 11:23 Budapeste 12:08
+FLYASIA8147 Orlando 06:07 Barcelona 09:01
+TAM8933 Orlando 00:21 Dublin 16:45
+AIRBUS6199 Orlando 07:11 Roma 14:09
+TAM3817 Orlando 13:06 Roma 15:48
+DELTA6333 Orlando 00:48 BuenosAires 18:16
+AIRBUS8325 Orlando 20:56 Budapeste 21:23
+AZUL4223 Orlando 02:22 Hamburg 13:33
+FLYASIA3687 Orlando 05:41 Motevideo 08:09 09:12 Lisboa 10:44
+AZUL8197 Orlando 08:33 Cairo 20:22
+AZUL4127 Orlando 21:04 Toquio 22:25
+VARIG8613 Orlando 17:10 Hamburg 17:52
+AIRBUS2376 Orlando 13:18 Florida 17:32
+ASKY4706 Orlando 00:26 Goiania 06:28
+AIRBUS8970 Orlando 08:55 RioDeJaneiro 09:58 10:35 Madrid 11:52
+VARIG1215 Orlando 16:27 Xangai 19:00
+AIRBUS6955 Orlando 01:41 NovaYork 08:39
+AIRBUS8301 Orlando 12:39 Hamburg 14:51
+KLM1010 Orlando 05:03 Hamburg 07:02
+DELTA6012 Orlando 04:04 Casablanca 06:15 07:01 Londres 07:17
+FLYASIA1348 Orlando 10:34 Moscou 11:01
+KLM3385 Orlando 00:29 Veneza 19:49
+FLYASIA9797 NovaYork 19:07 Dubai 19:56
+VARIG2173 NovaYork 16:45 Moscou 19:49
+FLYASIA7370 NovaYork 21:32 Cairo 23:02
+AIRBUS9386 NovaYork 11:59 Casablanca 22:12
+ASKY5265 NovaYork 00:18 BuenosAires 13:01
+AZUL8906 NovaYork 13:21 Paris 16:55
+VARIG4470 NovaYork 02:10 Dubai 13:09
+AFRANCE9566 NovaYork 16:37 Orlando 22:52
+VARIG9187 Londres 01:06 Porto 21:16
+ASKY4804 Londres 21:58 Johannesburgo 22:03
+AZUL9442 Londres 06:27 Atenas 12:18
+TAM8467 Paris 19:31 Casablanca 19:58
+DELTA6582 Paris 03:15 Lima 07:55
+KLM5508 Paris 06:08 Budapeste 16:23
+DELTA1744 Paris 06:11 Praga 21:39
+AZUL2643 Paris 10:18 Praga 21:06
+TAM1482 Paris 08:13 Xangai 09:24 10:55 Dublin 12:23
+VARIG8124 Paris 01:21 Barcelona 10:22
+AIRBUS7924 Paris 01:54 Lima 03:41 04:00 Toquio 04:30
+KLM9010 Paris 20:47 Berlim 22:08
+FLYASIA2549 Paris 16:24 Florenca 22:54
+VARIG9191 Paris 13:28 Barcelona 16:57
+DELTA8263 Paris 14:52 Goiania 16:15
+FLYASIA1886 Paris 02:34 Cairo 07:58
+AFRANCE7070 Paris 08:05 Madrid 09:11 10:12 Florenca 11:03
+AFRANCE4320 Paris 09:53 Goiania 10:20 10:47 Viena 11:14
+AZUL3571 Paris 17:01 Hamburg 20:30
+TAM6733 Paris 21:42 Porto 22:57
+AIRBUS6442 Paris 02:29 Lisboa 20:29
+AFRANCE5427 Paris 14:56 Moscou 17:11
+KLM1086 Paris 16:53 Berlim 18:15
+VARIG9447 Paris 06:24 Londres 22:38
+AZUL4819 Roma 20:19 Atenas 20:21
+KLM5282 Roma 18:07 Orlando 22:03
+TAM8906 Roma 01:02 Praga 02:45
+AZUL9081 Roma 03:06 Seul 09:49
+DELTA3359 Roma 11:03 Porto 16:34
+DELTA5983 Roma 03:41 Motevideo 10:46
+TAM2299 Roma 07:15 Florida 09:01 09:02 NovaYork 09:29
+ASKY6659 Roma 01:25 Praga 01:52 02:48 Toquio 03:15
+AZUL2657 Roma 08:17 Johannesburgo 09:13 09:25 Hamburg 11:03
+AFRANCE3077 Roma 21:49 Lisboa 22:42
+ASKY7632 Roma 07:43 Seul 08:10
+DELTA9795 Roma 18:17 Veneza 19:20
+TAM7118 Roma 01:39 Curitiba 03:32 05:04 Toquio 05:31
+AZUL4765 Roma 02:30 Xangai 18:11
+TAM8387 Roma 12:42 Veneza 15:48
+AZUL8062 Roma 00:10 Moscou 19:11
+DELTA9963 Roma 19:02 Cairo 21:41
+ASKY7601 Roma 04:23 BuenosAires 08:01 08:28 Casablanca 09:45
+AFRANCE8967 Roma 08:34 Hamburg 22:19
+VARIG5283 Roma 05:52 Amsterdam 06:19
+ASKY3024 Roma 00:47 Johannesburgo 01:14 01:41 RioDeJaneiro 02:55
+DELTA6971 Roma 05:38 Berlim 06:51 07:18 Barcelona 09:01
+DELTA9036 Roma 04:54 Orlando 07:38 08:24 Motevideo 10:27
+AFRANCE2507 Roma 10:57 BuenosAires 23:02
+VARIG9844 Florenca 11:38 Cairo 18:36
+TAM7388 Florenca 16:24 Casablanca 16:30
+AZUL6274 Florenca 04:54 SaoPaulo 15:58
+AZUL5508 Florenca 08:11 Orlando 10:33 11:00 Amsterdam 11:27
+VARIG8875 Florenca 13:02 Casablanca 19:50
+DELTA1164 Florenca 05:38 Hamburg 06:05
+DELTA8022 Florenca 12:13 Bruxelas 13:33
+TAM6599 Florenca 13:38 Seul 20:51
+AIRBUS7340 Florenca 20:14 Madrid 22:21
+VARIG6219 Florenca 06:34 BuenosAires 09:14 10:48 Moscou 11:41
+AIRBUS3817 Florenca 18:34 Atenas 22:46
+AZUL6524 Florenca 08:49 Casablanca 22:34
+VARIG6964 Florenca 12:24 Madrid 22:43
+AIRBUS2356 Florenca 18:44 NovaYork 19:02
+FLYASIA6106 Florenca 00:31 Orlando 10:24
+AIRBUS3185 Florenca 12:24 NovaYork 17:18
+KLM1354 Florenca 01:18 BuenosAires 18:42
+AZUL3014 Florenca 20:38 Roma 21:38
+FLYASIA3206 Florenca 21:19 Atenas 22:57
+AIRBUS2918 Veneza 04:17 Viena 12:37
+AIRBUS8706 Veneza 15:09 Atenas 16:51
+VARIG5869 Veneza 10:06 Seul 16:52
+TAM2160 Veneza 02:22 Dubai 03:39 04:44 Amsterdam 05:13
+ASKY8481 Veneza 08:51 Florida 18:01
+AZUL8785 Veneza 00:56 Bruxelas 02:26 03:26 Roma 04:43
+KLM9262 Veneza 04:55 RioDeJaneiro 08:19
+DELTA1500 Veneza 03:44 Praga 04:11 04:38 BuenosAires 05:18
+AZUL2472 Veneza 17:10 Berlim 17:14
+AIRBUS1925 Veneza 03:51 Cairo 06:21 07:56 Florenca 08:59
+KLM4774 Veneza 13:29 Roma 14:30
+AZUL1957 Veneza 16:47 BuenosAires 18:10
+TAM6004 Veneza 13:03 Hamburg 18:25
+AFRANCE4956 Veneza 14:32 Praga 21:47
+TAM8707 Veneza 16:35 Dublin 22:58
+AFRANCE8333 Veneza 05:44 Orlando 20:31
+AZUL9559 Veneza 13:13 NovaYork 13:32
+AFRANCE2225 Veneza 02:08 RioDeJaneiro 08:19
+KLM1648 Veneza 12:51 Cairo 17:13
+AZUL7207 Moscou 20:18 Paris 20:32
+AFRANCE2055 Moscou 07:26 Lisboa 19:50
+KLM1513 Moscou 20:46 Florenca 21:13
+AZUL7479 Moscou 00:31 Casablanca 01:05 01:54 Veneza 02:21
+TAM3661 Moscou 09:59 Barcelona 11:45 12:12 Roma 12:39
+DELTA3791 Moscou 15:25 NovaYork 16:51
+AIRBUS5773 Moscou 03:51 Porto 07:18
+DELTA8765 Moscou 03:46 Bruxelas 13:44
+DELTA9629 Moscou 05:39 Porto 10:45
+VARIG5573 Moscou 05:38 Viena 19:46
+AIRBUS2144 Moscou 14:31 Amsterdam 21:07
+VARIG2535 Moscou 00:26 Barcelona 18:02
+ASKY3177 Moscou 03:11 Paris 16:04
+KLM6943 Moscou 11:21 Florida 22:41
+AZUL4211 Moscou 09:43 NovaYork 12:15 13:43 Amsterdam 15:40
+VARIG1683 Moscou 07:10 Hamburg 19:48
+AZUL3545 Moscou 04:11 Berlim 06:29 07:43 Atenas 08:16
+DELTA4513 Moscou 21:17 Amsterdam 21:19
+FLYASIA7396 Moscou 15:39 Florenca 20:19
+ASKY8786 Moscou 05:13 Lima 13:48
+KLM4095 Moscou 07:40 Atenas 18:29
+DELTA4985 Berlim 12:58 SaoPaulo 22:07
+ASKY3925 Berlim 00:49 Amsterdam 01:16 01:43 Viena 02:10
+DELTA7540 Berlim 05:39 Lisboa 08:17 09:55 Amsterdam 11:10
+VARIG6289 Berlim 15:08 Barcelona 16:54
+AIRBUS7879 Berlim 00:35 Seul 01:22 02:50 Curitiba 03:17
+VARIG6041 Berlim 17:40 Veneza 19:44
+AFRANCE3469 Berlim 15:33 Dublin 19:50
+AZUL3401 Berlim 20:59 Atenas 21:28
+DELTA7715 Berlim 09:06 Xangai 12:55 13:22 Seul 14:33
+TAM1173 Berlim 18:52 Cairo 19:23
+ASKY5482 Berlim 04:17 Goiania 12:02
+DELTA9503 Berlim 00:59 Lisboa 03:40
+ASKY4555 Berlim 14:24 Porto 19:09
+TAM5718 Berlim 00:48 Barcelona 17:54
+AIRBUS5544 Berlim 10:43 Seul 18:42
+VARIG4742 Berlim 01:17 Florida 01:58 02:06 NovaYork 04:41
+FLYASIA1679 Berlim 00:50 Motevideo 20:16
+KLM9623 Berlim 02:41 Orlando 05:53 06:20 Florenca 06:47
+ASKY5909 Berlim 00:50 Cairo 01:17 01:30 Veneza 04:02
+AIRBUS1116 Berlim 19:07 Lisboa 19:58
+ASKY8957 Berlim 00:22 Johannesburgo 02:06 03:13 Curitiba 04:21
+TAM9350 Berlim 14:33 Moscou 19:32
+FLYASIA1477 Hamburg 10:28 Roma 20:03
+AFRANCE3299 Hamburg 10:22 Bruxelas 12:12
+AFRANCE7791 Hamburg 13:34 Xangai 21:24
+ASKY7916 Hamburg 17:00 SaoPaulo 17:49
+AFRANCE8241 Hamburg 09:53 Madrid 10:20 10:47 BuenosAires 11:29
+TAM9515 Hamburg 20:42 Praga 21:57
+ASKY1745 Hamburg 08:49 Londres 11:14
+AIRBUS6670 Hamburg 00:05 Madrid 04:49
+AFRANCE2914 Hamburg 13:16 Motevideo 14:50
+KLM5824 Hamburg 02:49 Madrid 14:59
+ASKY5352 Hamburg 04:02 Lima 07:56 08:25 Goiania 10:11
+FLYASIA9307 Hamburg 07:46 Dublin 09:01
+AIRBUS3866 Hamburg 07:21 Xangai 07:56
+AZUL3758 Hamburg 04:29 Goiania 18:18
+ASKY9344 Hamburg 21:56 Seul 21:58
+AZUL8877 Hamburg 15:09 Cairo 22:40
+AIRBUS4497 Barcelona 09:14 Florenca 09:38 10:05 NovaYork 11:04
+TAM6890 Barcelona 07:12 SaoPaulo 20:11
+DELTA8578 Barcelona 12:46 Xangai 17:06
+AZUL2002 Barcelona 01:27 Budapeste 13:00
+FLYASIA5768 Barcelona 00:35 Budapeste 20:34
+KLM4015 Barcelona 21:49 Veneza 22:37
+AFRANCE6111 Barcelona 18:54 Hamburg 19:21
+VARIG9547 Barcelona 05:17 Viena 20:31
+TAM1742 Barcelona 07:22 Madrid 11:32
+TAM8834 Barcelona 04:05 Bruxelas 06:04 06:25 Casablanca 07:09
+ASKY5312 Barcelona 20:37 Cairo 20:52
+AZUL2964 Barcelona 11:15 Moscou 15:46
+VARIG8280 Barcelona 00:40 Hamburg 09:06
+ASKY9788 Barcelona 19:46 Londres 22:50
+TAM3247 Barcelona 03:41 Viena 11:37
+AZUL7454 Barcelona 07:51 Paris 20:09
+AFRANCE6885 Barcelona 12:46 Veneza 15:58
+AFRANCE9236 Madrid 05:54 Cairo 14:25
+AIRBUS9428 Madrid 19:52 BuenosAires 21:08
+ASKY2666 Madrid 14:46 Veneza 20:02
+AIRBUS5435 Madrid 01:40 Florida 17:56
+TAM9491 Madrid 21:28 Moscou 22:53
+AIRBUS8008 Madrid 10:10 Dublin 12:26
+AFRANCE2834 Madrid 03:08 Porto 17:44
+AFRANCE6826 Madrid 10:47 Orlando 21:44
+KLM4827 Madrid 11:45 Moscou 13:33
+TAM8783 Madrid 21:36 Moscou 22:03
+ASKY5701 Madrid 11:54 Praga 23:03
+TAM4554 Madrid 06:04 Dublin 09:27 09:42 Atenas 12:02
+ASKY5325 Madrid 03:27 Johannesburgo 19:16
+DELTA5640 Madrid 11:36 Paris 12:03
+AIRBUS2514 Lisboa 19:22 Moscou 19:27
+DELTA8812 Lisboa 06:25 Porto 19:20
+ASKY2874 Lisboa 17:32 SaoPaulo 22:24
+AZUL2214 Lisboa 03:26 Praga 21:25
+AIRBUS1675 Lisboa 08:11 Londres 11:01 11:28 Madrid 11:55
+ASKY3496 Lisboa 19:38 Atenas 21:45
+AFRANCE1239 Lisboa 21:02 Seul 21:57
+KLM8495 Lisboa 05:05 Xangai 22:47
+AZUL8521 Porto 01:13 Praga 01:45 02:12 Berlim 03:31
+AFRANCE2919 Porto 00:22 Moscou 04:08
+AFRANCE9884 Porto 06:20 Londres 13:58
+AFRANCE7112 Porto 16:55 Casablanca 17:22
+AZUL6080 Porto 02:02 Goiania 18:17
+TAM5219 Porto 03:07 Florenca 05:26 06:27 Lisboa 08:11
+AFRANCE3491 Porto 17:38 Paris 18:38
+KLM3093 Porto 05:16 Casablanca 07:50
+AZUL9653 Porto 04:52 Atenas 07:20
+ASKY3081 Porto 06:02 Berlim 08:42
+AZUL6382 Porto 07:44 Paris 08:11
+AFRANCE7350 Porto 01:37 Paris 11:42
+TAM6783 Porto 05:26 Johannesburgo 19:35
+FLYASIA7581 Porto 06:16 Toquio 11:35
+DELTA9752 Porto 03:54 Viena 14:05
+FLYASIA8226 Porto 04:31 Motevideo 17:28
+VARIG1169 Porto 11:21 NovaYork 16:01
+AFRANCE9853 Atenas 01:21 Seul 01:24
+ASKY4596 Atenas 00:37 RioDeJaneiro 22:30
+TAM8658 Atenas 01:12 BuenosAires 01:46
+AZUL9914 Atenas 08:10 Lisboa 09:57
+VARIG6467 Atenas 18:45 Toquio 19:12
+AZUL8878 Atenas 21:08 Casablanca 21:22
+AIRBUS8813 Atenas 00:39 Motevideo 01:32
+AZUL1996 Atenas 10:02 Praga 21:39
+AZUL6747 Atenas 08:56 Amsterdam 14:03
+DELTA4806 Atenas 15:26 Curitiba 18:44
+KLM1185 Atenas 13:21 Xangai 21:48
+AIRBUS2377 Atenas 05:39 Xangai 07:14 07:54 Roma 08:55
+FLYASIA3240 Atenas 04:54 Paris 06:40
+DELTA9801 Atenas 04:12 Toquio 06:47 07:14 Lima 07:41
+FLYASIA6967 Amsterdam 12:40 Florenca 18:01
+AFRANCE5493 Amsterdam 10:19 Viena 19:44
+DELTA5564 Amsterdam 03:15 Dublin 03:45 04:22 Moscou 05:29
+AFRANCE7639 Amsterdam 15:35 Moscou 15:51
+AZUL6878 Amsterdam 08:54 Goiania 19:02
+ASKY3133 Amsterdam 19:43 Londres 21:23
+AFRANCE9157 Amsterdam 04:53 Lima 16:38
+ASKY1924 Bruxelas 07:36 Moscou 08:02 08:29 Toquio 08:56
+AFRANCE2154 Bruxelas 00:16 Dubai 00:43 01:49 Lima 02:11
+ASKY5138 Bruxelas 01:30 Roma 09:52
+VARIG6373 Bruxelas 12:43 Hamburg 13:10
+TAM1960 Bruxelas 15:57 Paris 18:39
+KLM5034 Bruxelas 11:18 BuenosAires 13:17
+AIRBUS2050 Budapeste 19:41 Lima 20:08
+ASKY8389 Budapeste 06:07 Florida 07:20 08:26 Toquio 10:58
+TAM6443 Budapeste 17:38 Curitiba 22:06
+AIRBUS6444 Budapeste 19:23 SaoPaulo 19:37
+AZUL6666 Budapeste 21:36 Amsterdam 22:03
+DELTA2438 Budapeste 08:55 Casablanca 17:48
+FLYASIA8380 Budapeste 20:25 Madrid 21:50
+VARIG5016 Budapeste 04:36 Seul 20:43
+AIRBUS3855 Budapeste 10:45 Motevideo 21:17
+DELTA4657 Dublin 02:00 Casablanca 08:31
+KLM2079 Dublin 04:29 Madrid 14:03
+TAM9394 Dublin 19:20 Bruxelas 20:44
+AZUL7400 Dublin 17:16 Xangai 21:37
+DELTA4308 Dublin 13:07 Curitiba 15:59
+KLM4338 Dublin 06:16 Toquio 13:25
+AZUL2026 Dublin 15:19 Johannesburgo 22:55
+AFRANCE3667 Dublin 05:00 Florenca 09:04
+AIRBUS9512 Dublin 02:25 Hamburg 04:42 05:09 Berlim 05:36
+DELTA4393 Dublin 01:10 Orlando 16:11
+KLM5293 Dublin 03:46 Curitiba 10:33
+AIRBUS6182 Dublin 04:51 Porto 10:42
+VARIG3309 Dublin 07:26 Curitiba 20:27
+TAM6022 Dublin 20:13 SaoPaulo 22:37
+DELTA6114 Dublin 15:58 Casablanca 16:39
+KLM5750 Dublin 12:11 Dubai 20:38
+DELTA8061 Dublin 18:18 RioDeJaneiro 22:15
+AFRANCE6963 Dublin 02:57 Toquio 03:40 04:07 Casablanca 04:34
+AZUL9974 Praga 18:55 Xangai 21:38
+AIRBUS4908 Praga 18:17 Porto 21:57
+FLYASIA5128 Praga 16:24 SaoPaulo 16:38
+KLM4318 Praga 21:18 Casablanca 22:59
+AZUL2053 Praga 19:58 Toquio 20:40
+ASKY9682 Praga 20:32 Curitiba 21:06
+FLYASIA5645 Praga 13:15 Berlim 20:45
+FLYASIA2732 Praga 20:52 Seul 21:48
+AFRANCE1740 Praga 05:31 Toquio 09:13
+ASKY9212 Praga 20:12 Lisboa 22:23
+FLYASIA8908 Praga 05:04 Paris 05:53 07:02 Dublin 07:29
+AZUL5664 Praga 01:49 Madrid 07:08
+AZUL2253 Praga 01:02 Xangai 04:32 05:54 Dublin 06:53
+KLM1485 Praga 11:58 Roma 12:52
+ASKY6290 Praga 03:43 Curitiba 04:10
+ASKY8053 Praga 01:15 Berlim 14:47
+FLYASIA8659 Praga 13:13 Lisboa 15:25
+VARIG4408 Praga 02:51 Toquio 17:09
+TAM8691 Praga 06:37 BuenosAires 22:08
+AZUL9308 Praga 03:05 SaoPaulo 12:42
+DELTA3575 Praga 10:13 Moscou 22:47
+ASKY8309 Praga 16:44 Goiania 21:42
+AFRANCE4772 Praga 20:08 Motevideo 22:38
+AZUL9571 Praga 14:03 Atenas 18:28
+VARIG9552 Viena 02:13 Porto 12:29
+TAM2722 Viena 08:05 Orlando 08:17
+FLYASIA4986 Viena 12:42 RioDeJaneiro 16:37
+AZUL9388 Viena 16:43 Orlando 22:55
+AFRANCE1594 Viena 03:11 Toquio 21:12
+FLYASIA5474 Viena 09:06 Moscou 18:47
+AFRANCE7899 BuenosAires 01:53 Johannesburgo 06:44
+VARIG3845 BuenosAires 05:57 Berlim 09:15
+FLYASIA8062 BuenosAires 06:01 Xangai 06:16 06:43 SaoPaulo 07:10
+AFRANCE5197 BuenosAires 07:27 Xangai 09:31
+AFRANCE3528 BuenosAires 08:44 Dublin 10:16 11:11 Moscou 12:09
+VARIG9668 BuenosAires 13:29 Paris 21:12
+FLYASIA4093 BuenosAires 06:31 Casablanca 22:06
+KLM3424 BuenosAires 11:16 Florida 11:57
+KLM7788 BuenosAires 09:38 Goiania 21:36
+AFRANCE1001 BuenosAires 07:48 Berlim 11:56
+AIRBUS4226 BuenosAires 16:25 Motevideo 19:44
+DELTA3759 BuenosAires 14:02 Dubai 16:37
+AFRANCE8488 BuenosAires 09:23 Londres 12:46 14:02 Veneza 15:59
+AFRANCE7355 BuenosAires 19:22 Xangai 22:17
+FLYASIA2633 BuenosAires 15:48 Moscou 22:25
+ASKY6273 BuenosAires 07:27 Veneza 07:54 08:36 Bruxelas 09:33
+AFRANCE8342 BuenosAires 14:07 Barcelona 22:50
+VARIG9772 BuenosAires 07:36 Viena 14:26
+VARIG6455 BuenosAires 01:00 Cairo 03:13 04:25 Curitiba 06:58
+AFRANCE9595 Motevideo 16:08 Florida 18:13
+ASKY5247 Motevideo 00:30 Lima 01:05 02:47 Seul 04:54
+DELTA5437 Motevideo 16:57 Veneza 19:20
+TAM1555 Motevideo 04:12 Goiania 07:21
+AZUL1690 Motevideo 05:44 Xangai 05:47 06:18 Veneza 08:44
+FLYASIA8018 Motevideo 08:50 RioDeJaneiro 12:09
+VARIG5009 Lima 12:04 Bruxelas 16:32
+AFRANCE7746 Lima 02:47 Casablanca 02:59 03:26 Johannesburgo 03:40
+ASKY9819 Lima 09:03 Amsterdam 09:13 09:40 Florenca 10:12
+AFRANCE3989 Lima 17:25 Praga 21:27
+DELTA3146 Lima 08:33 Dublin 18:46
+DELTA4432 Lima 02:27 Florida 05:25 05:59 Paris 06:24
+AIRBUS3211 Lima 07:49 SaoPaulo 11:18
+AZUL8833 Lima 10:50 Barcelona 19:48
+KLM7425 Lima 10:23 SaoPaulo 16:33
+ASKY9853 Lima 04:44 Londres 17:32
+VARIG8912 Xangai 16:35 Bruxelas 18:06
+TAM5462 Xangai 18:20 SaoPaulo 18:54
+AIRBUS3616 Xangai 19:47 Motevideo 20:14
+KLM9460 Xangai 00:30 Seul 18:55
+ASKY7716 Xangai 03:29 Florida 20:03
+DELTA3974 Xangai 00:01 Lisboa 01:20 01:47 Veneza 03:22
+FLYASIA3348 Xangai 02:16 Praga 02:48 03:05 Lisboa 04:45
+TAM6185 Xangai 05:32 Toquio 11:39
+VARIG6541 Xangai 15:07 Toquio 20:53
+AZUL6247 Xangai 13:41 Moscou 14:28
+DELTA3917 Toquio 01:52 NovaYork 01:58 02:25 BuenosAires 02:52
+AIRBUS1563 Toquio 06:41 Dubai 11:20
+KLM1238 Toquio 02:17 Bruxelas 03:54 04:21 SaoPaulo 05:08
+KLM9546 Toquio 00:19 Madrid 03:21 04:53 Hamburg 04:59
+FLYASIA7070 Toquio 10:26 Budapeste 11:05
+KLM5996 Toquio 20:48 Moscou 21:57
+DELTA7772 Toquio 08:14 Bruxelas 15:57
+DELTA4138 Toquio 07:44 Dubai 16:17
+AFRANCE5754 Toquio 07:02 Lisboa 10:37 11:38 SaoPaulo 12:39
+AZUL6497 Toquio 04:28 Goiania 20:18
+TAM9938 Toquio 21:19 Moscou 22:47
+TAM4105 Toquio 20:56 Praga 21:32
+AIRBUS5747 Toquio 04:59 Orlando 06:07 06:42 Motevideo 08:53
+TAM6891 Toquio 06:53 Curitiba 09:54 10:21 Florenca 11:58
+AFRANCE9133 Toquio 09:31 Viena 09:41 09:47 Seul 10:14
+VARIG5572 Toquio 04:01 Dublin 06:38
+AIRBUS6355 Toquio 07:12 Dubai 14:12
+VARIG4114 Toquio 06:02 Porto 14:38
+AIRBUS8134 Toquio 02:59 Bruxelas 04:02 04:29 Lisboa 05:11
+TAM2627 Toquio 00:46 BuenosAires 12:41
+AZUL5200 Toquio 05:56 Xangai 11:35
+VARIG4490 Toquio 06:56 Florida 08:47
+AFRANCE2164 Toquio 08:38 Veneza 15:04
+AIRBUS2367 Toquio 03:58 Johannesburgo 07:18
+AZUL2089 Seul 18:11 RioDeJaneiro 19:45
+TAM5575 Seul 00:46 Amsterdam 00:49 01:43 Berlim 02:10
+DELTA1579 Seul 05:05 Lisboa 15:26
+TAM1313 Seul 15:15 Bruxelas 19:53
+DELTA2697 Seul 04:45 Madrid 06:13
+FLYASIA5820 Dubai 17:50 Berlim 20:25
+AIRBUS7130 Dubai 17:55 BuenosAires 18:21
+TAM4996 Dubai 16:49 Berlim 18:32
+FLYASIA4541 Dubai 07:48 Bruxelas 10:20
+ASKY1134 Dubai 15:47 Florida 21:47
+TAM4429 Dubai 16:08 Berlim 21:26
+VARIG5262 Dubai 17:01 SaoPaulo 22:13
+ASKY2919 Dubai 15:33 Hamburg 16:00
+FLYASIA6554 Dubai 21:42 Seul 23:02
+KLM1612 Dubai 00:59 Orlando 04:41
+FLYASIA6183 Dubai 09:29 Bruxelas 12:49
+ASKY1749 Dubai 06:34 Veneza 08:51 09:42 Amsterdam 11:59
+VARIG1128 Dubai 00:45 Lima 01:12
+KLM8022 Dubai 12:01 Lisboa 19:07
+TAM2763 Casablanca 03:09 Roma 12:45
+TAM5661 Casablanca 20:19 Veneza 21:25
+FLYASIA2640 Casablanca 06:04 Porto 09:52 11:03 Amsterdam 12:43
+DELTA1133 Casablanca 11:19 Paris 22:03
+DELTA7031 Casablanca 00:55 Xangai 00:57
+KLM2067 Casablanca 02:20 Viena 05:10 05:42 NovaYork 07:21
+AIRBUS6436 Casablanca 14:33 Berlim 21:19
+ASKY1293 Casablanca 10:58 Amsterdam 12:17
+FLYASIA7087 Casablanca 19:20 Florenca 19:29
+ASKY5948 Casablanca 05:38 Florida 10:27
+AFRANCE8713 Casablanca 10:26 Dublin 16:02
+DELTA9104 Casablanca 04:30 Roma 04:49 05:58 BuenosAires 06:25
+AFRANCE6867 Casablanca 02:21 Lima 04:05 04:18 Londres 05:51
+KLM9834 Casablanca 11:05 Barcelona 18:33
+AIRBUS2744 Casablanca 18:15 Budapeste 21:32
+DELTA1913 Casablanca 00:40 Toquio 13:53
+AIRBUS6381 Casablanca 08:31 Curitiba 10:11 11:25 Cairo 11:36
+ASKY2756 Casablanca 14:13 Dubai 15:33
+KLM2126 Casablanca 02:08 BuenosAires 05:27 05:54 Madrid 07:51
+TAM2539 Casablanca 09:40 Amsterdam 12:10 13:24 Moscou 13:50
+DELTA1789 Casablanca 20:55 Moscou 21:22
+DELTA3526 Casablanca 09:45 RioDeJaneiro 12:54
+KLM9038 Casablanca 04:23 Xangai 06:39
+AIRBUS4937 Casablanca 18:57 Barcelona 22:49
+AZUL6030 Cairo 07:34 BuenosAires 11:52
+VARIG4257 Cairo 13:25 SaoPaulo 15:48
+VARIG7150 Cairo 05:28 Veneza 09:02 09:29 Motevideo 09:56
+AIRBUS8808 Cairo 03:30 Lima 20:06
+TAM2757 Cairo 04:57 Madrid 17:03
+DELTA7767 Cairo 05:44 Toquio 08:39 09:06 Seul 09:25
+DELTA9937 Cairo 20:43 Lisboa 22:44
+DELTA8810 Cairo 05:53 Moscou 06:57
+ASKY8628 Cairo 21:55 Berlim 22:22
+AIRBUS5840 Cairo 06:05 Paris 08:40 09:16 Budapeste 09:47
+DELTA7341 Cairo 08:09 Atenas 13:22
+ASKY9724 Cairo 02:21 Viena 21:38
+TAM3903 Cairo 12:13 Orlando 16:02
+AFRANCE5590 Cairo 17:01 Porto 18:49
+DELTA8109 Johannesburgo 11:39 Bruxelas 22:57
+DELTA3494 Johannesburgo 12:54 Paris 13:21
+AFRANCE6547 Johannesburgo 00:24 Florida 03:34 03:51 Curitiba 04:18
+AIRBUS5120 Johannesburgo 20:57 Paris 21:53
+FLYASIA3785 Johannesburgo 06:43 Bruxelas 14:40
+AFRANCE4626 Johannesburgo 03:10 Dublin 07:53
+AFRANCE7839 Johannesburgo 21:32 Berlim 22:45
+ASKY1362 Johannesburgo 00:02 Viena 01:58 02:55 Lisboa 04:42
+ASKY7519 Johannesburgo 06:59 Veneza 07:26 07:55 NovaYork 08:08
+AFRANCE6867 Johannesburgo 10:56 Cairo 12:12
+AFRANCE2062 Johannesburgo 09:08 Moscou 09:58 10:47 Porto 12:41
+AIRBUS4055 Johannesburgo 20:48 Madrid 21:19
+AIRBUS3767 Johannesburgo 07:53 BuenosAires 18:04
+VARIG3218 Johannesburgo 03:13 Roma 18:35
+AZUL4748 Johannesburgo 18:03 Barcelona 19:06
+DELTA9850 Johannesburgo 08:26 Bruxelas 11:44 12:11 Xangai 12:38
+ASKY1388 Johannesburgo 01:24 Moscou 12:07
+FLYASIA4803 Johannesburgo 00:49 Dublin 01:11 02:27 Casablanca 04:26
+DELTA5023 Johannesburgo 03:36 Orlando 04:12

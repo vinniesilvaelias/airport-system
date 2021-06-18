@@ -1,0 +1,3 @@
+/home/vinicius/CLionProjects/airport-system-02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vinicius/CLionProjects/airport-system-02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vinicius/CLionProjects/airport-system-02/cmake-build-debug/CMakeFiles/airport_system_02.dir

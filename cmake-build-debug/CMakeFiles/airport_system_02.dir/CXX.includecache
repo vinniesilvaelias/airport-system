@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vinicius/CLionProjects/airport-system-02/main.cpp
+queue
+-
+utils.h
+/home/vinicius/CLionProjects/airport-system-02/utils.h
+
+/home/vinicius/CLionProjects/airport-system-02/utils.cpp
+utils.h
+/home/vinicius/CLionProjects/airport-system-02/utils.h
+
+/home/vinicius/CLionProjects/airport-system-02/utils.h
+iostream
+-
+fstream
+-
+ctime
+-
+map
+-
+utility
+-
+vector
+-
+

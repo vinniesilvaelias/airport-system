@@ -1,0 +1,4 @@
+TP1982 Porto 09:00 Madrid 11:00
+IB8717 Madrid 12:00 LasPalmasGranCanaria 15:00 15:30 SantaCruzTenerife 16:20
+TP1985 Porto 09:30 Lisboa 10:30
+PGA102 Lisboa 12:40 SantaCruzTenerife 16:00 16:30 LasPalmasGranCanaria 17:20
